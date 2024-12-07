@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "2c7e83e18a71e0ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "43daa28be93fcdf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1ae71387739250f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TIL/2024-12-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-03"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b724c4761fd4ce28",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae2c72246fb55cf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e992f8bbd0eaf08c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ab3af7875a767f22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb237ac7a14ff797",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2bb90fa0450525bf",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "045679fb18226801",
+    "type": "split",
+    "children": [
+      {
+        "id": "0247a4f2049b7e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aed16ad40bef5cd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TIL/2024-12-03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2024-12-03"
+            }
+          },
+          {
+            "id": "4e4e01b5cf61fd6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Research.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Research"
+            }
+          },
+          {
+            "id": "ac26b1a28092f8ed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a15694a0c8cde431",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TIL/2024-12-05.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2024-12-05"
+            }
+          },
+          {
+            "id": "afa20c05f95d1762",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e992f8bbd0eaf08c",
+  "lastOpenFiles": [
+    "Books/Reinforcement Learning and Explainable Intelligence for the Modern Era/Index.md",
+    "TIL/2024-12-07.md",
+    "Untitled 1.canvas",
+    "TIL/2024-12-03.md",
+    "TIL/2024-12-05.md",
+    "2024-12-05.md",
+    "TIL/Untitled.md",
+    "Books/Reinforcement Learning and Explainable Intelligence for the Modern Era",
+    "Papers",
+    "Books",
+    "Untitled.canvas",
+    "2024-11-24.md",
+    "Untitled.md",
+    "Ideas.canvas",
+    "TIL",
+    "Welcome.md",
+    "Research.md"
+  ]
+}
