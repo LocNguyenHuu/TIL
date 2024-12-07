@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TIL/2024-12-03.md",
+                "file": "TIL/2024-12-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-03"
+              "title": "2024-12-07"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "e992f8bbd0eaf08c",
   "lastOpenFiles": [
-    "Books/Reinforcement Learning and Explainable Intelligence for the Modern Era/Index.md",
+    "Books",
     "TIL/2024-12-07.md",
-    "Untitled 1.canvas",
     "TIL/2024-12-03.md",
+    "Books/Reinforcement Learning and Explainable Intelligence for the Modern Era/Index.md",
+    "Untitled 1.canvas",
     "TIL/2024-12-05.md",
     "2024-12-05.md",
     "TIL/Untitled.md",
